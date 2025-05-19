@@ -19,3 +19,17 @@ I'm very fortunate to be supervised by [Prof. Feng Liu](https://fengliu90.github
 * 2023.10 - present, the Unversity of Melbourne (UoM), Ph.D. in Engineering and IT, advised by [Prof. Feng Liu](https://fengliu90.github.io/).
 * 2022.3 - 2023.6, the Unversity of Melbourne (UoM), Master in Data Science.
 * 2018.7 - 2021.11, the Unversity of Melbourne (UoM), B.Sc. in Data Science.
+
+# Academic Service
+
+* *Conference Reviewer:*
+* *Journal Reviewer:*
+
+# Teaching Assistant
+
+* MAST90139: Statistical Modelling for Data Science (2025 S1)
+* MAST20005: Statistics (2025 Summer)
+* MAST90138: Multivariate Statistics for Data Science (2024 S2)
+* Comp90051: Statistical Machine Learning (2024 S1 & 2024 S2 & 2025 S1)
+* COMP90048: Declarative Programming (2022 S2 & 2023 S1 & 2023 S2)
+* INFO30005: Web Information Technologies (2022 S1)
