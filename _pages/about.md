@@ -22,8 +22,8 @@ I'm very fortunate to be supervised by [Prof. Feng Liu](https://fengliu90.github
 
 # Academic Service
 
-* *Conference Reviewer:*
-* *Journal Reviewer:*
+* *Conference Reviewer:* ICML, NeurIPS, ICLR, AJCAI, etc.
+* *Journal Reviewer:* NEUNET, TMLR, etc.
 
 # Teaching Assistant
 
