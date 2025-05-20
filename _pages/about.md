@@ -10,6 +10,8 @@ I'm a second year Ph.D. student from [Faculty of Engineering and IT](https://eng
 
 I'm very fortunate to be supervised by [Prof. Feng Liu](https://fengliu90.github.io/index.html) of [Trustworthy Machine Learning and Reasoning Group](https://github.com/tmlr-group) (Melbourne).
 
+You can find my CV here: [Yeager&#39;s Curriculum Vitae](../files/CV.pdf)
+
 *Please feel free to email me for research, collaborations, or a casual chat.*
 
 [Email](xunyetian.ml@gmail.com)/[Github](https://github.com/yeager20001118)
